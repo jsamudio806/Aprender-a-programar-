@@ -1,0 +1,30 @@
+```markdown
+# Mi Proyecto Increíble
+
+¡Bienvenido a mi proyecto increíble!
+
+## Descripción
+
+Este proyecto es una aplicación simple que hace ________ (rellena el espacio en blanco con lo que hace tu proyecto).
+
+## Instalación
+
+Para usar este proyecto, simplemente clona el repositorio:
+
+```
+git clone https://github.com/tu_usuario/tu_repositorio.git
+```
+
+## Uso
+
+1. Abre el archivo `index.html` en tu navegador.
+2. ¡Disfruta de la experiencia!
+
+## Contribución
+
+¡Contribuciones son bienvenidas! Si tienes alguna idea para mejorar este proyecto, por favor abre un *issue* para discutirlo o envía una solicitud de extracción.
+
+## Licencia
+
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+```
