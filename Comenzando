@@ -27,4 +27,32 @@ git clone https://github.com/tu_usuario/tu_repositorio.git
 ## Licencia
 
 Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
-```
+``
+
+```markdown
+# ¡Bienvenido a Mi Proyecto!
+
+[Aprendiendoa programar]
+
+## Tabla de Contenidos
+
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
+
+## Instalación
+
+[Instrucciones de instalación]
+
+## Uso
+
+[Instrucciones de uso]
+
+## Contribución
+
+¡Contribuciones son bienvenidas! Por favor lee el [Guía de Contribución](CONTRIBUTING.md) para detalles sobre cómo contribuir a este proyecto.
+
+## Licencia
+
+Este proyecto está licenciado bajo [Licencia XYZ](LICENSE).
